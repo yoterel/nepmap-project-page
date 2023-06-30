@@ -133,5 +133,8 @@ body {
   font-size: smaller;
 }
 
-
-
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
